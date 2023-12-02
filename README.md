@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mertbogus
 - 👀 I’m interested in trying to improve myself in software.
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning Javasprict, React,  .Net Core
 - 📫 How to reach me;
 - 📫 bogusmert@gmail.com
 - 👉 https://www.linkedin.com/in/mert-bogus/
